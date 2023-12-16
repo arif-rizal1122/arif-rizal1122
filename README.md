@@ -20,7 +20,8 @@
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Laravel" width="30px" src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="php" width="30px" src="https://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" />][webdev]
+[<img align="left" alt="Php" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
+
 
 
 <br />
