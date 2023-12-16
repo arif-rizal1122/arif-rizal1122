@@ -1,31 +1,20 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Arif Rizal 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+
+- 🌱 I’m currently learning PHP & FRAMEWORK LARAVEL 10
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: rizallarif32@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. https://pondokinformatika.id/  `2022-2023`
+   - Backend Developer Laravel
+ #### 2. https://akupintar.id/sekolah/-/cari-sekolah/detail_sekolah/sman-1-lambu/83397130 | MIPA | Bima `2016-2019`
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
+
 
 ### Languages and Tools:
 
@@ -42,12 +31,6 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -56,4 +39,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/arif-rizal1122
