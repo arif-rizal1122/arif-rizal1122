@@ -1,7 +1,6 @@
 
 
-
-![giphy (1)](https://github.com/arif-rizal1122/walpapers/assets/139412431/eda97123-9de1-478c-86cf-1735918cbc7b)
+![anime-water (1)](https://github.com/arif-rizal1122/walpapers/assets/139412431/83b46d0d-b606-433e-b96d-8f6cb8bbda36)
 
 
 
