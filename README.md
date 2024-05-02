@@ -1,10 +1,8 @@
-#### UPLOAD IMAGE
 
 
-<video autoplay loop muted playsinline width="100%">
-  <source src="https://github.com/arif-rizal1122/walpaper/blob/main/mylivewallpapers-com-Berserker-Armor-Roar-4K.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[![Live Wallpaper](https://github.com/arif-rizal1122/walpaper/blob/main/mylivewallpapers-com-Berserker-Armor-Roar-4K.jpg)](https://github.com/arif-rizal1122/walpaper/blob/main/mylivewallpapers-com-Berserker-Armor-Roar-4K.mp4)
+
 
 
 ## About me:
