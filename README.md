@@ -14,8 +14,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [rizallarif32@gmail.com](mailto:rizallarif32@gmail.com)
 
-## Education:
-
-#### 1. [Pondok Informatika](https://pondokinformatika.id/) `2022-2023`
-   - **Backend Developer Laravel**
- #### 2. [SMA Negeri 1 Lambu](https://akupintar.id/sekolah/-/cari-sekolah/detail_sekolah/sman-1-lambu/83397130) | MIPA | Bima `2016-2019`
