@@ -1,7 +1,7 @@
 
 
 
-![d179596312e355517901f6b67da74471 (1)](https://github.com/arif-rizal1122/walpapers/assets/139412431/80c4574e-c68c-430e-8b02-e266d6ee951c)
+![giphy (1)](https://github.com/arif-rizal1122/walpapers/assets/139412431/eda97123-9de1-478c-86cf-1735918cbc7b)
 
 
 
