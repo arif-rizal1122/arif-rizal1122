@@ -1,7 +1,8 @@
 #### UPLOAD IMAGE
 
+
 <video autoplay loop muted playsinline width="100%">
-  <source src="https://github.com/arif-rizal1122/arif-rizal1122/blob/main/assets/139412431/mylivewallpapers-com-Berserker-Armor-Roar-4K.mp4?raw=true" type="video/mp4">
+  <source src=""C:\Users\LENOVO\OneDrive\Pictures\Screenshots\mylivewallpapers-com-Berserker-Armor-Roar-4K.mp4"" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
