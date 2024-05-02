@@ -1,4 +1,4 @@
-## ingin menampilkan image disini
+
 
 ![Screenshot 2024-03-06 081238](https://github.com/arif-rizal1122/arif-rizal1122/assets/139412431/f44d8824-419f-4f81-89a8-d36f2cebaf67)
 
