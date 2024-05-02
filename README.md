@@ -1,7 +1,7 @@
 
 
 
-![d179596312e355517901f6b67da74471](https://github.com/arif-rizal1122/walpapers/assets/139412431/70f72571-af62-4b6a-b2cd-849a8face72a)
+![d179596312e355517901f6b67da74471 (1)](https://github.com/arif-rizal1122/walpapers/assets/139412431/80c4574e-c68c-430e-8b02-e266d6ee951c)
 
 
 
