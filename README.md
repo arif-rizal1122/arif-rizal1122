@@ -1,6 +1,6 @@
 
 
-![Uploading agus.gif…]()
+![agus](https://github.com/arif-rizal1122/go-validation/assets/139412431/f0b31159-03ed-49a9-b8d8-87de9ba18530)
 
 
 
