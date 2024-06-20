@@ -2,8 +2,8 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c" alt="GIF 1" width="200" /></td>
-        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c" alt="GIF 2" width="200" /></td>
+        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c" alt="GIF 1" width="400" /></td>
+        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c" alt="GIF 2" width="400" /></td>
     </tr>
 </table>
 
