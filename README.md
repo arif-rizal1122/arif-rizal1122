@@ -1,7 +1,6 @@
 
 
-![agus](https://github.com/arif-rizal1122/go-validation/assets/139412431/f0b31159-03ed-49a9-b8d8-87de9ba18530)
-
+![agus](https://github.com/arif-rizal1122/WA/assets/139412431/83ea3696-a857-4b7d-ad46-46878b2cc40a)
 
 
 ## About me:
