@@ -1,11 +1,7 @@
 ## About me:
 
-<table>
-    <tr>
-        <td>![agus(1)(1)](https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c)</td>
-        <td>![agus(1)(1)](https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c)</td>
-    </tr>
-</table>
+![agus(1)(1)](https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c)
+![agus(1)(1)](https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c)
 
 🌱 I’m currently learning **PHP | LARAVEL Framework & GOLANG | FRAMEWORK GO**
 
