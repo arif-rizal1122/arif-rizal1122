@@ -1,6 +1,6 @@
 
 
-![agus](https://github.com/arif-rizal1122/WA/assets/139412431/83ea3696-a857-4b7d-ad46-46878b2cc40a)
+![agus(1)](https://github.com/arif-rizal1122/WA/assets/139412431/c258b991-c101-4b17-bfeb-e09cf56be1f6)
 
 
 ## About me:
