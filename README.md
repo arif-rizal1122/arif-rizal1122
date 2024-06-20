@@ -1,6 +1,6 @@
 
 
-![cat (1)](https://github.com/arif-rizal1122/walpapers/assets/139412431/1e7d8b79-a0f0-409f-b25b-8c6f4adc3617)
+![Uploading agus.gif…]()
 
 
 
