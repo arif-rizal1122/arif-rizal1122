@@ -2,10 +2,12 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c" alt="GIF 1" width="400" /></td>
-        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/04e0d8e1-ae42-409f-a857-bdc657670d8c" alt="GIF 2" width="400" /></td>
+        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/3b0f18d5-70df-4c4a-b8c4-bbabe7e2cd78" alt="GIF 1" width="200" /></td>
+        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/4719b060-e5cd-409e-bfe1-89ebf71a1360" alt="GIF 2" width="200" /></td>
+        <td><img src="https://github.com/arif-rizal1122/WA/assets/139412431/9a4a1eed-7e41-428e-b574-01ddc01fe5af" alt="GIF 2" width="200" /></td>
     </tr>
 </table>
+
 
 🌱 I’m currently learning **PHP | LARAVEL Framework & GOLANG | FRAMEWORK GO**
 
