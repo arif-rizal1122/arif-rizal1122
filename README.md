@@ -10,11 +10,7 @@
     
 </table>
 
-🌱 I’m currently learning **PHP | LARAVEL Framework & GOLANG | FRAMEWORK GO**
-
-🌱 I’m currently learning **GOLANG**
-
-👯 I’m looking to collaborate on **Data Automation and Analysis**
+🌱 I’m currently learning **PHP | LARAVEL Framework GOLANG & JAVA | FRAMEWORK GO**
 
 🤔 I’m looking for suggestions for **Rust Project Ideas**
 
