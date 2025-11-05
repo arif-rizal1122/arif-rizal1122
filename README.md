@@ -12,8 +12,6 @@
 
 🌱 I’m currently learning **PHP | LARAVEL Framework GOLANG & JAVA | FRAMEWORK GO**
 
-🤔 I’m looking for suggestions for **Rust Project Ideas**
-
 💬 Ask me about anything
 
 📫 How to reach me: [rizallarif32@gmail.com](mailto:rizallarif32@gmail.com)
